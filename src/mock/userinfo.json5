@@ -1,0 +1,4 @@
+{
+    username: '@cname()',
+    password: '@string("number", 10)',
+}
